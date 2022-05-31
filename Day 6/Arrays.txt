@@ -1,0 +1,34 @@
+Arrays:-
+
+=> Array - Data Structure
+    "To show a list we use Arrays"
+
+1.Usage and index structure
+2.access any element directly
+
+=> Accessing Elements
+
+1.concat
+2.join
+3.indexOf
+4.lastIndexOf
+
+=>Iterating list
+
+1.forEach
+2.for of
+3.simple for loop
+4.some
+5.every
+6.filter
+7.map
+8.reduce
+
+=>Mutating list
+
+1.pop
+2.push
+3.reverse
+4.sort
+5.splice
+6.unshift

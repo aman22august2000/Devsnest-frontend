@@ -1,0 +1,26 @@
+> Javascript Programming Primer
+> Cercion
+> Scope
+> Arrays 
+> Objects
+1. Objects in real life - Car
+2. Object in Javascript - syntax
+3. Accessing object properties - Dot Notation,Bracket Notation
+4. Methods in Objects
+5. Creating a Javascript Object - Using object literal, 
+                                  Creating Objects with new,
+                                  Create object with Object.Create
+6. Javascript object are mutable
+7. for in loop
+8. Nested Objects
+9. Object.keys,Object.values,Object.getOwnPropertyNames,Object freeze
+10. JSON stringify, JSON parse
+11. get and set on Objects
+12. delete properties from object
+13. diff between get,set and function
+14. object constructor
+15. some in built utilities- Object assign(),spread operation
+16. Spread operator on Arrays
+17. Rest Parameters- Objects and Arrays
+18. Diff between argments and rest parameters 
+//  Build in Javascript Constructors
